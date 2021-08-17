@@ -22,4 +22,5 @@
         "microbit"
     ],
     "preferredEditor": "tsprj"
+    "public": true
 }
